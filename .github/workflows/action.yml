@@ -5,7 +5,7 @@ env:
   testid: "10748809"
   ContinuePipeline: "false"
   showtaillog: "false"
-  env_variable: '{"iterations": "\"12\""}'
+  env_variable: '{"iterations": "\"8\""}'
   inputstartfile: "BlazeDemo-Taurus.yaml"
   Uploadfilechk: "true"
    
