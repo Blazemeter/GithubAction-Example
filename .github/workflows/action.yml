@@ -5,7 +5,7 @@ env:
   testid: "10748423"
   ContinuePipeline: "false"
   showtaillog: "false"
-  env_variable: '{"iterations": "\"6\""}'
+  env_variable: '{"iterations": "\"10\""}'
   inputstartfile: "BlazeDemo.yaml"
   Uploadfilechk: "true"
    
